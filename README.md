@@ -6,3 +6,4 @@
 - 🤔 I’m looking for help with **✨ everything ✨**
 - 📫 How to reach me: **open an issue on any of my public repos**
 - 😄 Pronouns: **he/him**
+- 🐧 I use Arch BTW
